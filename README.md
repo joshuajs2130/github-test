@@ -2,7 +2,6 @@
 text = input('Enter a string: ')
 count1= 0
 count2= 0
-
 for i in text:
     if (i.isupper()):
        count1=count1+1
